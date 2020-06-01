@@ -1,2 +1,2 @@
 # lds
-Low-Discrepancy Sets
+Low-Discrepancy Sequences
